@@ -77,7 +77,7 @@ export const ReactDes = styled.div`
 export const Button = styled.button`
   color: #ffffff;
   background-color: #1f81ff;
-  font-family: 'Roboto';
+  font-family: 'Bree serif';
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 24px;
