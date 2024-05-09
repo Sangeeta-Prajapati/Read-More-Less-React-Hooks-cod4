@@ -65,7 +65,7 @@ export const Image = styled.img`
     margin-top: 16px;
   }
 `
-export const ReactDes = styled.div`
+export const ReactDes = styled.p`
   font-family: 'Roboto';
   color: #334155;
   font-size: 15px;
