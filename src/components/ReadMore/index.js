@@ -22,6 +22,7 @@ const ReadMore = reactHooksDes => {
     <MainContainer>
       <SubContainer>
         <Heading>React Hooks</Heading>
+
         <Description>Hooks are a new addition to React</Description>
         <Image
           src="https://assets.ccbp.in/frontend/hooks/react-hooks-img.png"
